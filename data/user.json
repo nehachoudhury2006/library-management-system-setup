@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Neha Choudhury",
+    "email": "neha@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Prasant Nayak",
+    "email": "prasant@example.com",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Ananya Sharma",
+    "email": "ananya@example.com",
+    "role": "user"
+  }
+]
